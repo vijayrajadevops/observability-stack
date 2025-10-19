@@ -1,0 +1,8 @@
+lb:
+  name: "jaeger"
+  sslCertArn: ""
+  dnsName: ""
+  securityGroups: []
+  subnets: []
+  tags: ""
+  internal: false
